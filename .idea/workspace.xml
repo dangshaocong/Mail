@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b80b1ed-399e-4453-bedf-8eaad27b4b06" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Mall$text.coverage" NAME="text Coverage Results" MODIFIED="1538223987362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mall$manage__1_.coverage" NAME="manage (1) Coverage Results" MODIFIED="1537599699707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/back_end" />
+    <SUITE FILE_PATH="coverage/meiduo_29$manage.coverage" NAME="manage Coverage Results" MODIFIED="1530701371308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meiduo_mall" />
+    <SUITE FILE_PATH="coverage/Mall$test.coverage" NAME="test Coverage Results" MODIFIED="1537498643081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mall$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1537604196948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/back_end" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mall@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mall@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mall@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mall: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2038564977">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="621937602">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.63" value="1" />
+          <entry key="project.open.time.71" value="1" />
+          <entry key="project.open.time.73" value="1" />
+          <entry key="project.open.time.77" value="1" />
+          <entry key="project.open.time.85" value="1" />
+          <entry key="project.open.time.92" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="conf" value="1" />
+          <entry key="js" value="1" />
+          <entry key="log" value="1" />
+          <entry key="py" value="94" />
+          <entry key="sh" value="9" />
+          <entry key="sql" value="17" />
+          <entry key="tb_brand" value="1" />
+          <entry key="tb_content" value="1" />
+          <entry key="tb_goods_category" value="2" />
+          <entry key="tb_goods_specification" value="1" />
+          <entry key="tb_sku" value="2" />
+          <entry key="tb_users" value="3" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="10" />
+          <entry key="JavaScript" value="1" />
+          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="Python" value="94" />
+          <entry key="SQL" value="16" />
+          <entry key="Scratch" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="2254" />
+          <entry key="sh" value="145" />
+          <entry key="txt" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="149" />
+          <entry key="Python" value="2254" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>save_modle</find>
+      <find>delete_mdoel</find>
+      <find>form</find>
+      <find>sku.url</find>
+      <find>db_router</find>
+      <find>meiduo</find>
+      <find>CREATE</find>
+      <find>CREAT</find>
+      <find>tb_sku</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/users/urls.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/oauth/views.py" />
+        <option value="$PROJECT_DIR$/front_end_pc/js/login.js" />
+        <option value="$PROJECT_DIR$/front_end_pc/js/oauth_callback.js" />
+        <option value="$PROJECT_DIR$/front_end_pc/js/search.js" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/oauth/serializers.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/goods/search_indexes.py" />
+        <option value="$PROJECT_DIR$/front_end_pc/place_order.html" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/orders/views.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/orders/models.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/orders/urls.py" />
+        <option value="$PROJECT_DIR$/front_end_pc/js/place_order.js" />
+        <option value="$PROJECT_DIR$/front_end_pc/order_success.html" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/orders/serializers.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/payment/models.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/payment/keys/alipay_public_key.pem" />
+        <option value="$PROJECT_DIR$/front_end_pc/js/order_success.js" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/payment/views.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/payment/urls.py" />
+        <option value="$PROJECT_DIR$/front_end_pc/pay_success.html" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/urls.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/goods/apps.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/orders/adminx.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/goods/adminx.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/utils/db_router.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/settings/dev.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/wsgi.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/uwsgi.ini" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/settings/prod.py" />
+        <option value="$PROJECT_DIR$/back_end/celery_tasks/sms/tasks.py" />
+        <option value="$PROJECT_DIR$/back_end/mall/apps/verifications/serializers.py" />
+        <option value="$PROJECT_DIR$/back_end/mall/apps/verifications/urls.py" />
+        <option value="$PROJECT_DIR$/back_end/mall/utils/db_router.py" />
+        <option value="$PROJECT_DIR$/back_end/mall/apps/verifications/views.py" />
+        <option value="$PROJECT_DIR$/back_end/mall/apps/users/urls.py" />
+        <option value="$PROJECT_DIR$/back_end/mall/apps/areas/urls.py" />
+        <option value="$PROJECT_DIR$/back_end/mall/apps/users/serializers.py" />
+        <option value="$PROJECT_DIR$/back_end/mall/apps/oauth/views.py" />
+        <option value="$PROJECT_DIR$/back_end/mall/settings/prod.py" />
+        <option value="$PROJECT_DIR$/back_end/mall/apps/areas/views.py" />
+        <option value="$PROJECT_DIR$/back_end/mall/settings/dev.py" />
+        <option value="$PROJECT_DIR$/back_end/scripts/import_areas.sh" />
+        <option value="$PROJECT_DIR$/back_end/scripts/goods_data.sql" />
+        <option value="$PROJECT_DIR$/install.sh" />
+        <option value="$PROJECT_DIR$/back_end/mall/apps/users/views.py" />
+        <option value="$PROJECT_DIR$/back_end/test.py" />
+        <option value="$PROJECT_DIR$/back_end/scripts/import_sql.sh" />
+        <option value="$PROJECT_DIR$/back_end/mall/apps/contents/migrations/0001_initial.py" />
+        <option value="$PROJECT_DIR$/back_end/mall/apps/goods/migrations/0001_initial.py" />
+        <option value="$PROJECT_DIR$/text.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="15" />
+    <option name="width" value="640" />
+    <option name="height" value="270" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mall" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb&#10;mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/back_end/mall/settings/dev.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/back_end/mall/apps/carts/migrations" />
+      <recent name="$PROJECT_DIR$/meiduo_mall/meiduo_mall/settings" />
+      <recent name="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/goods" />
+      <recent name="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/payment" />
+      <recent name="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/payment/keys" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.text">
+    <configuration name="manage (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Mall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/back_end" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/back_end/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="meiduo_29" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/meiduo_mall" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/meiduo_mall/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Mall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/back_end" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Mall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="text" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Mall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.manage" />
+      <item itemvalue="Python.manage (1)" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.test (1)" />
+      <item itemvalue="Python.text" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.text" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.manage (1)" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b80b1ed-399e-4453-bedf-8eaad27b4b06" name="Default" comment="" />
+      <created>1529398234269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529398234269</updated>
+    </task>
+    <task id="LOCAL-00039" summary="用户地址数据模型类">
+      <created>1529995700965</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1529995700965</updated>
+    </task>
+    <task id="LOCAL-00040" summary="创建广告与商品应用和模型类">
+      <created>1530003709015</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1530003709015</updated>
+    </task>
+    <task id="LOCAL-00041" summary="fastDFS客户端与富文本编辑器配置">
+      <created>1530014729737</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1530014729737</updated>
+    </task>
+    <task id="LOCAL-00042" summary="用户地址管理前后端代码">
+      <created>1530014922266</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1530014922266</updated>
+    </task>
+    <task id="LOCAL-00043" summary="首页静态化函数实现">
+      <created>1530173601382</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1530173601382</updated>
+    </task>
+    <task id="LOCAL-00044" summary="原始前端首页">
+      <created>1530173621643</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1530173621643</updated>
+    </task>
+    <task id="LOCAL-00045" summary="使用定时任务处理首页静态化">
+      <created>1530174854737</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1530174854738</updated>
+    </task>
+    <task id="LOCAL-00046" summary="定义生成商品详情页的异步任务">
+      <created>1530178962687</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1530178962687</updated>
+    </task>
+    <task id="LOCAL-00047" summary="修改商品Admin管理类增加调用异步任务">
+      <created>1530178998737</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1530178998737</updated>
+    </task>
+    <task id="LOCAL-00048" summary="补充商品详情页模板和前端js">
+      <created>1530179733922</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1530179733922</updated>
+    </task>
+    <task id="LOCAL-00049" summary="生成静态页面的脚本">
+      <created>1530181628804</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1530181628804</updated>
+    </task>
+    <task id="LOCAL-00050" summary="用户浏览历史记录后端保存与查询">
+      <created>1530183885848</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1530183885848</updated>
+    </task>
+    <task id="LOCAL-00051" summary="用户浏览历史记录前端">
+      <created>1530185549537</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1530185549537</updated>
+    </task>
+    <task id="LOCAL-00052" summary="商品列表页后端视图实现">
+      <created>1530256376034</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1530256376034</updated>
+    </task>
+    <task id="LOCAL-00053" summary="商品列表页前端">
+      <created>1530256802973</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1530256802973</updated>
+    </task>
+    <task id="LOCAL-00054" summary="创建商品索引类">
+      <created>1530262259287</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1530262259288</updated>
+    </task>
+    <task id="LOCAL-00055" summary="实现商品搜索视图">
+      <created>1530262857968</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1530262857968</updated>
+    </task>
+    <task id="LOCAL-00056" summary="实现商品搜索前端">
+      <created>1530270177529</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1530270177529</updated>
+    </task>
+    <task id="LOCAL-00057" summary="保存购物车后端实现">
+      <created>1530270196689</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1530270196689</updated>
+    </task>
+    <task id="LOCAL-00058" summary="首页与详情页页面静态化代码注释说明">
+      <created>1530328308616</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1530328308616</updated>
+    </task>
+    <task id="LOCAL-00059" summary="补充保存购物车路由与前端">
+      <created>1530427944944</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1530427944944</updated>
+    </task>
+    <task id="LOCAL-00060" summary="查询购物车数据视图">
+      <created>1530429819025</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1530429819025</updated>
+    </task>
+    <task id="LOCAL-00061" summary="查询购物车前端">
+      <created>1530430024942</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1530430024942</updated>
+    </task>
+    <task id="LOCAL-00062" summary="修改购物车后端">
+      <created>1530432302757</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1530432302757</updated>
+    </task>
+    <task id="LOCAL-00063" summary="修改购物车前端">
+      <created>1530432524317</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1530432524317</updated>
+    </task>
+    <task id="LOCAL-00064" summary="删除购物车记录后端">
+      <created>1530433178549</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1530433178549</updated>
+    </task>
+    <task id="LOCAL-00065" summary="删除购物车记录前端">
+      <created>1530433241346</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1530433241346</updated>
+    </task>
+    <task id="LOCAL-00066" summary="购物车全选后端实现">
+      <created>1530435146804</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1530435146804</updated>
+    </task>
+    <task id="LOCAL-00067" summary="购物车全选前端实现">
+      <created>1530435249403</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1530435249403</updated>
+    </task>
+    <task id="LOCAL-00068" summary="登录购物车合并逻辑">
+      <created>1530440509269</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1530440509269</updated>
+    </task>
+    <task id="LOCAL-00069" summary="修改登录，补充合并购物车">
+      <created>1530440525729</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1530440525729</updated>
+    </task>
+    <task id="LOCAL-00070" summary="修改QQ登录，补充合并购物车">
+      <created>1530440539157</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1530440539158</updated>
+    </task>
+    <task id="LOCAL-00071" summary="修改登录和qq登录前端，补充携带cookie">
+      <created>1530441200885</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1530441200885</updated>
+    </task>
+    <task id="LOCAL-00072" summary="创建订单应用与模型类">
+      <created>1530515477344</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1530515477345</updated>
+    </task>
+    <task id="LOCAL-00073" summary="订单确认页面后端视图">
+      <created>1530518300695</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1530518300695</updated>
+    </task>
+    <task id="LOCAL-00074" summary="订单确认页面前端">
+      <created>1530518526055</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1530518526055</updated>
+    </task>
+    <task id="LOCAL-00075" summary="保存订单初步实现后端">
+      <created>1530525475967</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1530525475968</updated>
+    </task>
+    <task id="LOCAL-00076" summary="保存订单前端">
+      <created>1530525621194</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1530525621194</updated>
+    </task>
+    <task id="LOCAL-00077" summary="保存订单后端增加乐观锁实现">
+      <created>1530532915017</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1530532915017</updated>
+    </task>
+    <task id="LOCAL-00078" summary="下单成功页面前端">
+      <created>1530532928340</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1530532928340</updated>
+    </task>
+    <task id="LOCAL-00079" summary="创建支付应用和模型类">
+      <created>1530690357543</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1530690357543</updated>
+    </task>
+    <task id="LOCAL-00080" summary="保存密钥数据">
+      <created>1530691244109</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1530691244109</updated>
+    </task>
+    <task id="LOCAL-00081" summary="获取支付宝支付链接接口后端实现">
+      <created>1530692777765</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1530692777766</updated>
+    </task>
+    <task id="LOCAL-00082" summary="获取支付宝支付链接bug修复">
+      <created>1530694115883</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1530694115883</updated>
+    </task>
+    <task id="LOCAL-00083" summary="获取支付宝支付链接前端">
+      <created>1530694124222</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1530694124222</updated>
+    </task>
+    <task id="LOCAL-00084" summary="保存支付结果后端实现">
+      <created>1530695101552</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1530695101552</updated>
+    </task>
+    <task id="LOCAL-00085" summary="支付结果页面前端">
+      <created>1530695267256</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1530695267256</updated>
+    </task>
+    <task id="LOCAL-00086" summary="xadmin的基本使用">
+      <created>1530696751105</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1530696751106</updated>
+    </task>
+    <task id="LOCAL-00087" summary="设置数据库读写分离">
+      <created>1530700849037</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1530700849037</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1328" height="822" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49709302" visible="true" weight="0.18973562" />
+      <window_info id="Structure" order="1" sideWeight="0.502907" side_tool="true" weight="0.19547658" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919224" weight="0.35438597" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32807016" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49919224" weight="0.6210526" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50080776" side_tool="true" weight="0.29179332" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.76" />
+      <window_info anchor="bottom" id="Database Console" order="11" weight="0.32969698" />
+      <window_info anchor="bottom" id="Database Changes" order="12" weight="0.32982457" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32711622" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32956383" />
+      <window_info anchor="right" id="Database" order="4" weight="0.26655897" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49709302" visible="true" weight="0.1874028" />
+      <window_info id="Structure" order="1" sideWeight="0.502907" side_tool="true" weight="0.19547658" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919224" weight="0.35438597" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32807016" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49919224" weight="0.6210526" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50080776" side_tool="true" weight="0.29179332" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.76" />
+      <window_info anchor="bottom" id="Database Console" order="11" weight="0.32969698" />
+      <window_info anchor="bottom" id="Database Changes" order="12" weight="0.32982457" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32807016" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32956383" />
+      <window_info anchor="right" id="Database" order="4" weight="0.26655897" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改购物车前端" />
+    <MESSAGE value="删除购物车记录后端" />
+    <MESSAGE value="删除购物车记录前端" />
+    <MESSAGE value="购物车全选后端实现" />
+    <MESSAGE value="购物车全选前端实现" />
+    <MESSAGE value="登录购物车合并逻辑" />
+    <MESSAGE value="修改登录，补充合并购物车" />
+    <MESSAGE value="修改QQ登录，补充合并购物车" />
+    <MESSAGE value="修改登录和qq登录前端，补充携带cookie" />
+    <MESSAGE value="创建订单应用与模型类" />
+    <MESSAGE value="订单确认页面后端视图" />
+    <MESSAGE value="订单确认页面前端" />
+    <MESSAGE value="保存订单初步实现后端" />
+    <MESSAGE value="保存订单前端" />
+    <MESSAGE value="保存订单后端增加乐观锁实现" />
+    <MESSAGE value="下单成功页面前端" />
+    <MESSAGE value="创建支付应用和模型类" />
+    <MESSAGE value="保存密钥数据" />
+    <MESSAGE value="获取支付宝支付链接接口后端实现" />
+    <MESSAGE value="获取支付宝支付链接bug修复" />
+    <MESSAGE value="获取支付宝支付链接前端" />
+    <MESSAGE value="保存支付结果后端实现" />
+    <MESSAGE value="支付结果页面前端" />
+    <MESSAGE value="xadmin的基本使用" />
+    <MESSAGE value="设置数据库读写分离" />
+    <option name="LAST_COMMIT_MESSAGE" value="设置数据库读写分离" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/users/views.py</url>
+          <line>231</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/PythonVirtual/Mall/lib/python3.6/site-packages/rest_framework/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="111" column="8" selection-start-line="111" selection-start-column="8" selection-end-line="111" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/mall/apps/oauth/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/mall/apps/oauth/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="63" column="19" lean-forward="true" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PythonVirtual/Mall/lib/python3.6/site-packages/rest_framework/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="845" column="6" selection-start-line="845" selection-start-column="6" selection-end-line="845" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b428a87c-ec39-48b4-a634-419f857b2226/schema/meiduo_29/table/tb_users" />
+    <entry file="file://$PROJECT_DIR$/back_end/mall/settings/prod.py" />
+    <entry file="das://b428a87c-ec39-48b4-a634-419f857b2226/schema/meiduo_29/table/tb_content" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d5e1873f-bb5d-4617-9859-f1e5ed6b1665/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://d5e1873f-bb5d-4617-9859-f1e5ed6b1665/schema/mall/table/tb_users" />
+    <entry file="file://$PROJECT_DIR$/back_end/mall/apps/verifications/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/mall/apps/verifications/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/mall/apps/verifications/constants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/mall/apps/verifications/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/mall/apps/verifications/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/mall/apps/verifications/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/mall/apps/verifications/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207">
+          <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/mall/apps/areas/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/mall/apps/users/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PythonVirtual/Mall/lib/python3.6/site-packages/rest_framework/permissions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/mall/apps/users/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2310">
+          <caret line="118" column="17" selection-start-line="118" selection-start-column="17" selection-end-line="118" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/mall/apps/contents/crons.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/mall/settings/dev.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5334">
+          <caret line="256" column="8" selection-start-line="256" selection-start-column="8" selection-end-line="256" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d5e1873f-bb5d-4617-9859-f1e5ed6b1665/schema/mall/table/tb_goods_category">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d5e1873f-bb5d-4617-9859-f1e5ed6b1665/schema/mall/table/tb_goods_specification">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d5e1873f-bb5d-4617-9859-f1e5ed6b1665/schema/mall/table/tb_brand">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="19" selection-start-line="19" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end/js/cart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="46" column="37" lean-forward="true" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/mall/apps/goods/adminx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/logs/crontab.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/mall/apps/orders/adminx.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/mall/urls.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/mall/apps/goods/urls.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/mall/apps/orders/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1391" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/mall/apps/goods/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://d5e1873f-bb5d-4617-9859-f1e5ed6b1665/schema/mall/table/tb_sku">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/scripts/goods_data.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="199" selection-start-line="199" selection-end-line="199" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/mall/apps/carts/migrations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/scripts/areas.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PythonVirtual/Mall/lib/python3.6/site-packages/django/db/migrations/migration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/mall/apps/contents/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/mall/apps/goods/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="38" column="55" lean-forward="true" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/scripts/import_sql.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/mall/apps/users/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/mall/utils/fastdfs/client.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end/mall/apps/users/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="70" column="83" lean-forward="true" selection-start-line="70" selection-start-column="83" selection-end-line="70" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/timeit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="60" column="24" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text.py" />
+    <entry file="file://$USER_HOME$/PythonVirtual/Mall/lib/python3.6/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="41" column="85" lean-forward="true" selection-start-line="41" selection-start-column="85" selection-end-line="41" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="72" column="13" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
