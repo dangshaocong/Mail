@@ -227,7 +227,7 @@ LOGGING = {
             'level': 'INFO',
             'class': 'logging.handlers.RotatingFileHandler',
             # 日志文件的位置
-            'filename': os.path.join(os.path.dirname(BASE_DIR), "logs/mall.log"),
+            'filename': os.path.join(os.path.dirname(BASE_DIR), "mall.log"),
             'maxBytes': 300 * 1024 * 1024,
             'backupCount': 10,
             'formatter': 'verbose'
