@@ -1,6 +1,6 @@
 from .utils.yuntongxun.sms import CCP
 import logging
-from celery_tasks.main import celery_app
+from tasks.main import celery_app
 
 logger = logging.getLogger('django')
 

@@ -14,7 +14,7 @@ from logging import getLogger
 from . import constants
 from .serializers import ImageCodeCheckSerializer
 from mall.utils.yuntongxun.sms import CCP
-from celery_tasks.sms.tasks import send_sms_code
+from tasks.sms.tasks import send_sms_code
 
 logger = getLogger('django')
 

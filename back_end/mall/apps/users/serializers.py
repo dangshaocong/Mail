@@ -4,7 +4,7 @@ from rest_framework import serializers
 from rest_framework_jwt.settings import api_settings
 
 from .models import User, Address
-from celery_tasks.email.tasks import send_active_email
+from tasks.email.tasks import send_active_email
 from goods.models import SKU
 from . import constants
 

@@ -1,6 +1,6 @@
 from django.core.mail import send_mail
 from django.conf import settings
-from celery_tasks.main import celery_app
+from tasks.main import celery_app
 
 
 @celery_app.task(name='send_active_email')
