@@ -5,7 +5,7 @@ celery==4.2.1
 cffi==1.11.5
 cryptography==2.3.1
 diff-match-patch==20121119
-Django==1.11.11
+Django==1.11.23
 django-ckeditor==5.6.1
 django-cors-headers==2.4.0
 django-crispy-forms==1.7.2
